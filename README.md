@@ -23,14 +23,3 @@ We want to use technology to:
   - A playful way to deepen biblical knowledge  
 
 ---
-
-## Get Involved
-Wortfokus is a community-driven initiative.  
-We are looking for **volunteers and contributors** who want to help us grow:  
-- Developers (frontend & backend)  
-- Designers (UI/UX, graphics, storytelling)  
-- Writers & theologians (content for quizzes, stories, blog posts)  
-- Anyone with creative ideas!  
-
-If you’d like to contribute (on a voluntary basis), please reach out to:  
-📧 **Adrian Moser** – [kontakt@wortfokus.org](mailto:kontakt@wortfokus.org)  
