@@ -23,7 +23,19 @@ We want to use technology to:
 - **📖 Bible Quiz App (in development)** – An interactive quiz app with:
   - Bible-based quiz questions  
   - Story-driven learning, where biblical characters tell their stories and ask the users questions  
-  - A playful way to deepen biblical knowledge  
+  - A playful way to deepen biblical knowledge
+ 
+-  **Bible Reading Plans (in development)** - Multiuser reading plan:
+  -  Bible-Reading by groups
+  -  Post ideas and things which spoke to you.
+  -  publicly available reading-notes
+
+- **Bible-App itself** - A YouVersion-"Clone" since we wnat the ability to read the bible also here:
+  - Read your bible
+  - Mark verses
+  - See related notes or post or quizess.
+
+
 
 ---
 
