@@ -20,12 +20,12 @@ We want to use technology to:
 - **✍️ Wortfokus Blog** – A German blog that shares articles, devotions, and resources.  
   👉 [wortfokus.org](https://wortfokus.org)  
 
-- **📖 Bible Quiz App (in development)** – An interactive quiz app with:
+- **📖 Bible Quiz App (in development - [BibleLab](https://app.wortfokus.org))** – An interactive quiz app with:
   - Bible-based quiz questions  
   - Story-driven learning, where biblical characters tell their stories and ask the users questions  
   - A playful way to deepen biblical knowledge
  
--  **Bible Reading Plans (in development)** - Multiuser reading plan:
+-  **Bible Reading Plans (in development) - [BibleRead](https://bibleread.io)** - Multiuser reading plan:
   -  Bible-Reading by groups
   -  Post ideas and things which spoke to you.
   -  publicly available reading-notes
